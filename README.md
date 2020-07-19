@@ -35,7 +35,14 @@
 
 <p>&nbsp;</p>
 
-## Achievements and Milestones 👑
+## 👨‍🏫🎓 Education 🎗👨🏻‍🎓
+<h5> SASTRA University  &nbsp; - &nbsp; JUL 2013 - MAY 2017</h5>
+<h5> B.Tech - Computer Science</h5>
+<h6> Graduated in distinction with CGPA of 7.81/10</h6>
+
+<p>&nbsp;</p>
+
+## 👑 Achievements and Milestones 🤴🏻
 
 :trophy: Received CX Champion and CX warrior (twice) for best performance @Genesys Telecom Labs(https://www.genesys.com/)
 
