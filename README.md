@@ -1,5 +1,5 @@
 ## Hello.. I'm Sumanth 👋🏼 😀
-
+<img src="https://github.com/sumanth979/sumanth979/blob/master/sumanth.png" alt="Sumanth Kanagala">
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
@@ -56,7 +56,7 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 
 ## Let's Connect :people_holding_hands:
 <p align='left'>
-<a href="https://www.linkedin.com/in/sumanthkanagala/"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/LinkedIn.png"></a></p>
-
+<a href="https://www.linkedin.com/in/sumanthkanagala/"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/LinkedIn.png"></a>&nbsp;
+<a href="mailto: kanagala.sumanth@gmail.com"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/gmail.png"></a></p>
 <p>&nbsp;</p>
 
