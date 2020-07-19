@@ -1,5 +1,11 @@
 ## Hello.. I'm Sumanth 👋🏼 😀
 
+<p>&nbsp;</p>
+
+## 🗣 About Me 🗣
+I am a passionate software engineer with 3+ years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Java, python, AWS and other dev-ops tools. I enjoyed exploring and working with automation tools as well.
+
+<p>&nbsp;</p>
 
 ## 📖 📚 Area of Expertise 📕 📗
 
