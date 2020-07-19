@@ -16,10 +16,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Tools & FrameWorks
-Frameworks & Tools: Spring, Spring Boot, J-Meter, Cucumber, TestNg, Gherkins, Swagger
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/testng/testng.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mac/mac.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/selenium.jpeg"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/jmeter.jpeg"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/Spring.jpeg"></code>
 
 #### Operating Systems :computer:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
