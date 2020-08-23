@@ -56,8 +56,7 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 <p>&nbsp;</p>
 
 ## Let's Connect :people_holding_hands:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanthkanagala/)](https://www.linkedin.com/in/sumanthkanagala/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanagala.sumanth@gmail.com)](https://mail.google.com)
-
-
-[![Profile View Count](http://hits.dwyl.io/sumanth979/Hyde.svg)](http://hits.dwyl.io/sumanth979/Hyde)
+<p align='left'>
+<a href="https://www.linkedin.com/in/sumanthkanagala/"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/LinkedIn.png"></a>&nbsp;
+<a href="mailto: kanagala.sumanth@gmail.com"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/gmail.png"></a></p>
+<p>&nbsp;</p>
