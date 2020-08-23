@@ -60,3 +60,4 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanagala.sumanth@gmail.com)](https://mail.google.com)
 
 
+[![Profile View Count](http://hits.dwyl.io/sumanth979/Hyde.svg)](http://hits.dwyl.io/sumanth979/Hyde)
