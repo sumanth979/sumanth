@@ -61,4 +61,3 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 <a href="mailto: kanagala.sumanth@gmail.com"><img height="100" src="https://github.com/sumanth979/sumanth979/blob/master/gmail.png"></a></p>
 <p>&nbsp;</p>
 
-https://komarev.com/ghpvc/?username=sumanth979
