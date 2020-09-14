@@ -37,7 +37,7 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 <p>&nbsp;</p>
 
 ## 👨🏻‍💼 Work Experience 🖱️ 🖥️ ⌨️
-|            Position           |      Organisation     |           Timeline         |
+|            Position           |      Organisation     |       Timeline             |
 | ------------------------------|:---------------------:| --------------------------:|
 | Senior Software Engineer      |  Genesys Telecom Labs |  September 2020 - Till Now |
 | Software Engineer             |  Genesys Telecom Labs |  April 2019 - August 2020  |
