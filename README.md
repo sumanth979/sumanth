@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
-I am a passionate software engineer with 3+ years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Java, python, AWS and other dev-ops tools. I enjoyed exploring and working with automation tools as well.
+I am a passionate software engineer with 4 years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Python, AWS and DevOps tools. I also enjoy exploring and working with automation tools as well.
 
 <p>&nbsp;</p>
 
@@ -16,13 +16,14 @@ I am a passionate software engineer with 3+ years of experience. I would love to
 
 #### Devops Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/jenkins.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/terraforms.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/jenkins.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/terraforms.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/harness/harness.png"></code>
 
 #### Tools & FrameWorks
 <code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/selenium.jpeg"></code>
