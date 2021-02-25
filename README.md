@@ -23,7 +23,7 @@ I am a passionate software engineer with 4 years of experience. I would love to 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/harness/harness.png"></code>
+<code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/harness.png"></code>
 
 #### Tools & FrameWorks
 <code><img height="30" src="https://github.com/sumanth979/sumanth979/blob/master/selenium.jpeg"></code>
