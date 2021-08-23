@@ -40,7 +40,7 @@ I am a passionate software engineer with 5 years of experience. I would love to 
 ## 👨🏻‍💼 Work Experience 🖱️ 🖥️ ⌨️
 |            Position           |       Organisation      |           Timeline              |
 | ------------------------------|:-----------------------:| -------------------------------:|
-| Senior DevOps Engineer        |  Informatica India      |  August 2021 - Till Now         |
+| Lead DevOps Engineer          |  Informatica India      |  August 2021 - Till Now         |
 | Senior DevOps Engineer        |  LineData India         |  December 2020 - August 2021    |
 | Senior Software Engineer      |  Genesys Telecom Labs   |  September 2020 - December 2020 |
 | Software Engineer             |  Genesys Telecom Labs   |  April 2019 - August 2020       |
