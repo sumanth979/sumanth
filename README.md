@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
-I am a passionate software engineer with 4 years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Python, AWS and DevOps tools. I also enjoy exploring and working with automation tools as well.
+I am a passionate software engineer with 5 years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Python, AWS and DevOps tools. I also enjoy exploring and working with automation tools as well.
 
 <p>&nbsp;</p>
 
@@ -40,7 +40,8 @@ I am a passionate software engineer with 4 years of experience. I would love to 
 ## 👨🏻‍💼 Work Experience 🖱️ 🖥️ ⌨️
 |            Position           |       Organisation      |           Timeline              |
 | ------------------------------|:-----------------------:| -------------------------------:|
-| DevOps Engineer               |  LineData India         |  December 2020 - Till Now       |
+| Senior DevOps Engineer        |  Informatica India      |  August 2021 - Till Now         |
+| Senior DevOps Engineer        |  LineData India         |  December 2020 - August 2021    |
 | Senior Software Engineer      |  Genesys Telecom Labs   |  September 2020 - December 2020 |
 | Software Engineer             |  Genesys Telecom Labs   |  April 2019 - August 2020       |
 | Associate Software Engineer   |  Genesys Telecom Labs   |  May 2017 - March 2019          |
