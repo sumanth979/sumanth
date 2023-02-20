@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
-I am a passionate software engineer with 5 years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Python, AWS and DevOps tools. I also enjoy exploring and working with automation tools as well.
+I am a passionate Cloud DevOps engineer with 6+ years of experience. I would love to explore new technologies and solving challenges. I enjoy working with Python, Cloud and DevOps tools. I also enjoy exploring and working with automation tools as well.
 
 <p>&nbsp;</p>
 
@@ -56,6 +56,8 @@ I am a passionate software engineer with 5 years of experience. I would love to 
 <p>&nbsp;</p>
 
 ## 👑 Achievements and Milestones 🤴🏻
+
+:trophy: Received best employee for Devops Innovations @Lindata Solutions.
 
 :trophy: Received CX Champion and CX warrior (twice) for best performance @Genesys Telecom Labs(https://www.genesys.com/)
 
